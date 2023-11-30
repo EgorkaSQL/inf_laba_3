@@ -1,0 +1,19 @@
+schedule_monday:
+  lesson1:
+    auditory: '1404'
+    campus: Кронверкский пр., д.49, лит.А
+    class-format: Очно
+    name_subject: Математический анализ
+    teacher: Рванова Алла
+    type: Лекция
+    week: Четная
+    time: '8:20 - 9:50'
+  lesson2:
+    auditory: '1404'
+    campus: Кронверкский пр., д.49, лит.А
+    class-format: Дистанционно
+    name_subject: Математический анализ
+    teacher: Рванова Алла
+    type: Практика
+    week: Четная
+    time: '10:00 - 11:30'

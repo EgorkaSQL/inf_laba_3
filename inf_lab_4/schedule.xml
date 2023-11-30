@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<schedule_monday>
+ <lesson1>
+    <auditory> '1404' </auditory>
+    <campus> Кронверкский пр., д.49, лит.А </campus>
+    <class-format> Очно </class-format>
+    <name_subject> Математический анализ </name_subject>
+    <teacher> Рванова Алла </teacher>
+    <type> Лекция </type>
+    <week> Четная </week>
+    <time> '8:20 - 9:50' </time>
+  </lesson1>
+  <lesson2>
+    <auditory> '1404' </auditory>
+    <campus> Кронверкский пр., д.49, лит.А </campus>
+    <class-format> Дистанционно </class-format>
+    <name_subject> Математический анализ </name_subject>
+    <teacher> Рванова Алла </teacher>
+    <type> Практика </type>
+    <week> Четная </week>
+    <time> '10:00 - 11:30' </time>
+  </lesson2>
+</schedule_monday>
